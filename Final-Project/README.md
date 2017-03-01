@@ -1,5 +1,5 @@
 ## Project Overview
----
+***
 **Taoran Liu, ID: 704605101**
 
 **Gladys Ng, ID: 304643416**
@@ -11,7 +11,7 @@ The grid will be a flat representation of a toroid, and, at the start of the pro
 The user will then be able to start and pause the cellular automata, as well as clear the board and reenter the `set_initial_state` mode.
 
 ## Modules and Breakdown
----
+***
 **Clock Divider (10%)**
 
 We will need a clock divider to set time intervals for sending data to the VGA output, as well as changing states.
